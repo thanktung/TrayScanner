@@ -1,0 +1,39 @@
+﻿# requirements.txt — H08 TrayScanner
+#
+# Target: Python 3.11 (64-bit) ONLY.
+#   - The old project (D:\Travis\wnc) used Python 3.9 32-bit, which can never
+#     install numpy / opencv-python (wheels are 64-bit only) — do not go back to it.
+#
+# Install:
+#   python -m venv .venv
+#   .venv\Scripts\pip install -r requirements.txt
+#   (corporate network needs: --trusted-host pypi.org --trusted-host files.pythonhosted.org --trusted-host pypi.python.org)
+#
+# KNOWN ISSUE — torch / Windows DLL (read before touching torch version):
+#   - torch>=2.9 crashes on this machine with:
+#       OSError: [WinError 1114] DLL initialization routine failed ... c10.dll
+#     Root cause: system msvcp140.dll (14.36, old) is ABI-incompatible with newer torch.
+#     Installing a newer VC++ Redistributable is BLOCKED by company policy on this PC
+#     (both normal install and /layout-only extraction return Access Denied).
+#   - Fix in place: pinned torch==2.8.0 / torchvision==0.23.0 below (does not need
+#     vcruntime140_threads.dll), PLUS newer msvcp140.dll / msvcp140_1.dll /
+#     vcruntime140.dll / vcruntime140_1.dll / concrt140.dll / msvcp140_codecvt_ids.dll /
+#     vccorlib140.dll copied manually (borrowed from OneDrive/Copilot installs already
+#     on this machine) into:
+#       .venv\Lib\site-packages\torch\lib\
+#     This local copy is REQUIRED and is NOT reinstalled automatically by pip.
+#     If you ever pip install --upgrade torch or recreate the venv, you must redo
+#     this DLL copy step or torch import will crash again.
+
+numpy==2.4.6
+opencv-python==5.0.0.93
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5_sip==12.19.0
+zxing-cpp==3.1.1
+pylibdmtx==0.1.10
+pypylon==26.8
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.170
+pyinstaller==6.22.3

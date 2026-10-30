@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "align_ok": true,
+    "label": {
+      "x": 47,
+      "y": 101,
+      "w": 256,
+      "h": 255
+    },
+    "align_fail": null,
+    "rotation_angle": -0.1,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9B6"
+    }
+  },
+  {
+    "id": 2,
+    "align_ok": true,
+    "label": {
+      "x": 578,
+      "y": 111,
+      "w": 254,
+      "h": 253
+    },
+    "align_fail": null,
+    "rotation_angle": -3.0,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9A6"
+    }
+  },
+  {
+    "id": 3,
+    "align_ok": true,
+    "label": {
+      "x": 1108,
+      "y": 114,
+      "w": 252,
+      "h": 256
+    },
+    "align_fail": null,
+    "rotation_angle": -2.2,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9E2"
+    }
+  },
+  {
+    "id": 4,
+    "align_ok": true,
+    "label": {
+      "x": 1640,
+      "y": 117,
+      "w": 252,
+      "h": 262
+    },
+    "align_fail": null,
+    "rotation_angle": -1.0,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9A2"
+    }
+  },
+  {
+    "id": 5,
+    "align_ok": true,
+    "label": {
+      "x": 2169,
+      "y": 122,
+      "w": 249,
+      "h": 265
+    },
+    "align_fail": null,
+    "rotation_angle": 0.4,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9AC"
+    }
+  },
+  {
+    "id": 6,
+    "align_ok": true,
+    "label": {
+      "x": 44,
+      "y": 567,
+      "w": 256,
+      "h": 256
+    },
+    "align_fail": null,
+    "rotation_angle": 0.5,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9A0"
+    }
+  },
+  {
+    "id": 7,
+    "align_ok": true,
+    "label": {
+      "x": 575,
+      "y": 570,
+      "w": 253,
+      "h": 258
+    },
+    "align_fail": null,
+    "rotation_angle": -2.3,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9E6"
+    }
+  },
+  {
+    "id": 8,
+    "align_ok": true,
+    "label": {
+      "x": 1107,
+      "y": 572,
+      "w": 252,
+      "h": 260
+    },
+    "align_fail": null,
+    "rotation_angle": -1.9,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9B2"
+    }
+  },
+  {
+    "id": 9,
+    "align_ok": true,
+    "label": {
+      "x": 1636,
+      "y": 577,
+      "w": 253,
+      "h": 269
+    },
+    "align_fail": null,
+    "rotation_angle": -2.0,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9A8"
+    }
+  },
+  {
+    "id": 10,
+    "align_ok": true,
+    "label": {
+      "x": 2166,
+      "y": 580,
+      "w": 250,
+      "h": 269
+    },
+    "align_fail": null,
+    "rotation_angle": -0.7,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9E4"
+    }
+  },
+  {
+    "id": 11,
+    "align_ok": true,
+    "label": {
+      "x": 40,
+      "y": 1035,
+      "w": 256,
+      "h": 251
+    },
+    "align_fail": null,
+    "rotation_angle": -0.7,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9E0"
+    }
+  },
+  {
+    "id": 12,
+    "align_ok": true,
+    "label": {
+      "x": 573,
+      "y": 1040,
+      "w": 252,
+      "h": 251
+    },
+    "align_fail": null,
+    "rotation_angle": -3.3,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9AA"
+    }
+  },
+  {
+    "id": 13,
+    "align_ok": true,
+    "label": {
+      "x": 1103,
+      "y": 1039,
+      "w": 252,
+      "h": 259
+    },
+    "align_fail": null,
+    "rotation_angle": -1.8,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9B0"
+    }
+  },
+  {
+    "id": 14,
+    "align_ok": true,
+    "label": {
+      "x": 1632,
+      "y": 1039,
+      "w": 253,
+      "h": 268
+    },
+    "align_fail": null,
+    "rotation_angle": -2.2,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9A4"
+    }
+  },
+  {
+    "id": 15,
+    "align_ok": true,
+    "label": {
+      "x": 2159,
+      "y": 1043,
+      "w": 252,
+      "h": 267
+    },
+    "align_fail": null,
+    "rotation_angle": 0.6,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9AE"
+    }
+  },
+  {
+    "id": 16,
+    "align_ok": true,
+    "label": {
+      "x": 39,
+      "y": 1496,
+      "w": 252,
+      "h": 258
+    },
+    "align_fail": null,
+    "rotation_angle": -0.6,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9CE"
+    }
+  },
+  {
+    "id": 17,
+    "align_ok": true,
+    "label": {
+      "x": 572,
+      "y": 1500,
+      "w": 251,
+      "h": 252
+    },
+    "align_fail": null,
+    "rotation_angle": -0.9,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC95A"
+    }
+  },
+  {
+    "id": 18,
+    "align_ok": true,
+    "label": {
+      "x": 1100,
+      "y": 1501,
+      "w": 251,
+      "h": 259
+    },
+    "align_fail": null,
+    "rotation_angle": -1.2,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC958"
+    }
+  },
+  {
+    "id": 19,
+    "align_ok": true,
+    "label": {
+      "x": 1629,
+      "y": 1502,
+      "w": 252,
+      "h": 267
+    },
+    "align_fail": null,
+    "rotation_angle": -1.3,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9B4"
+    }
+  },
+  {
+    "id": 20,
+    "align_ok": true,
+    "label": {
+      "x": 2155,
+      "y": 1506,
+      "w": 251,
+      "h": 266
+    },
+    "align_fail": null,
+    "rotation_angle": -1.3,
+    "flipped": false,
+    "dmx": {
+      "code": "D85B27BAC9DE"
+    }
+  },
+  {
+    "id": 21,
+    "align_ok": true,
+    "label": {
+      "x": 122,
+      "y": 2141,
+      "w": 253,
+      "h": 272
+    },
+    "align_fail": null,
+    "rotation_angle": 178.1,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC962"
+    }
+  },
+  {
+    "id": 22,
+    "align_ok": true,
+    "label": {
+      "x": 650,
+      "y": 2144,
+      "w": 255,
+      "h": 268
+    },
+    "align_fail": null,
+    "rotation_angle": 178.9,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC99A"
+    }
+  },
+  {
+    "id": 23,
+    "align_ok": true,
+    "label": {
+      "x": 1181,
+      "y": 2146,
+      "w": 251,
+      "h": 260
+    },
+    "align_fail": null,
+    "rotation_angle": 177.7,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC966"
+    }
+  },
+  {
+    "id": 24,
+    "align_ok": true,
+    "label": {
+      "x": 1707,
+      "y": 2148,
+      "w": 255,
+      "h": 258
+    },
+    "align_fail": null,
+    "rotation_angle": 178.8,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9B8"
+    }
+  },
+  {
+    "id": 25,
+    "align_ok": true,
+    "label": {
+      "x": 2238,
+      "y": 2152,
+      "w": 253,
+      "h": 257
+    },
+    "align_fail": null,
+    "rotation_angle": 177.7,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC99C"
+    }
+  },
+  {
+    "id": 26,
+    "align_ok": true,
+    "label": {
+      "x": 122,
+      "y": 2600,
+      "w": 254,
+      "h": 278
+    },
+    "align_fail": null,
+    "rotation_angle": 174.7,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9CC"
+    }
+  },
+  {
+    "id": 27,
+    "align_ok": true,
+    "label": {
+      "x": 649,
+      "y": 2605,
+      "w": 255,
+      "h": 275
+    },
+    "align_fail": null,
+    "rotation_angle": -178.6,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9BC"
+    }
+  },
+  {
+    "id": 28,
+    "align_ok": true,
+    "label": {
+      "x": 1181,
+      "y": 2609,
+      "w": 253,
+      "h": 264
+    },
+    "align_fail": null,
+    "rotation_angle": 178.5,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9C6"
+    }
+  },
+  {
+    "id": 29,
+    "align_ok": true,
+    "label": {
+      "x": 1705,
+      "y": 2613,
+      "w": 256,
+      "h": 262
+    },
+    "align_fail": null,
+    "rotation_angle": 178.9,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC960"
+    }
+  },
+  {
+    "id": 30,
+    "align_ok": true,
+    "label": {
+      "x": 2232,
+      "y": 2614,
+      "w": 255,
+      "h": 261
+    },
+    "align_fail": null,
+    "rotation_angle": 178.5,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9C4"
+    }
+  },
+  {
+    "id": 31,
+    "align_ok": true,
+    "label": {
+      "x": 121,
+      "y": 3062,
+      "w": 253,
+      "h": 274
+    },
+    "align_fail": null,
+    "rotation_angle": 179.2,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9BE"
+    }
+  },
+  {
+    "id": 32,
+    "align_ok": true,
+    "label": {
+      "x": 648,
+      "y": 3066,
+      "w": 256,
+      "h": 274
+    },
+    "align_fail": null,
+    "rotation_angle": 177.4,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC96A"
+    }
+  },
+  {
+    "id": 33,
+    "align_ok": true,
+    "label": {
+      "x": 1174,
+      "y": 3071,
+      "w": 256,
+      "h": 265
+    },
+    "align_fail": null,
+    "rotation_angle": 177.8,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC964"
+    }
+  },
+  {
+    "id": 34,
+    "align_ok": true,
+    "label": {
+      "x": 1702,
+      "y": 3076,
+      "w": 255,
+      "h": 261
+    },
+    "align_fail": null,
+    "rotation_angle": 176.8,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9BA"
+    }
+  },
+  {
+    "id": 35,
+    "align_ok": true,
+    "label": {
+      "x": 2230,
+      "y": 3076,
+      "w": 257,
+      "h": 265
+    },
+    "align_fail": null,
+    "rotation_angle": 178.5,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC96C"
+    }
+  },
+  {
+    "id": 36,
+    "align_ok": true,
+    "label": {
+      "x": 121,
+      "y": 3523,
+      "w": 252,
+      "h": 275
+    },
+    "align_fail": null,
+    "rotation_angle": -179.3,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9C8"
+    }
+  },
+  {
+    "id": 37,
+    "align_ok": true,
+    "label": {
+      "x": 648,
+      "y": 3527,
+      "w": 253,
+      "h": 272
+    },
+    "align_fail": null,
+    "rotation_angle": -179.9,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC9CA"
+    }
+  },
+  {
+    "id": 38,
+    "align_ok": true,
+    "label": {
+      "x": 1176,
+      "y": 3531,
+      "w": 252,
+      "h": 264
+    },
+    "align_fail": null,
+    "rotation_angle": 178.9,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC95C"
+    }
+  },
+  {
+    "id": 39,
+    "align_ok": true,
+    "label": {
+      "x": 1700,
+      "y": 3535,
+      "w": 255,
+      "h": 261
+    },
+    "align_fail": null,
+    "rotation_angle": 177.8,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC95E"
+    }
+  },
+  {
+    "id": 40,
+    "align_ok": true,
+    "label": {
+      "x": 2226,
+      "y": 3537,
+      "w": 255,
+      "h": 260
+    },
+    "align_fail": null,
+    "rotation_angle": 178.2,
+    "flipped": true,
+    "dmx": {
+      "code": "D85B27BAC968"
+    }
+  }
+]
